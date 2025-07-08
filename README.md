@@ -3,4 +3,4 @@ This is the code of our paper "AdaptiveCore: Adaptive Parallel Core Decompositio
 
 Our paper is currently under revision.
 
-The code will be available shortly!
+The code will be available shortly (A few days)!
