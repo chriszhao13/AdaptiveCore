@@ -1,5 +1,5 @@
 
-TARGET_EXEC := kcore_debug
+TARGET_EXEC := adaptivecore
 
 BUILD_DIR := ./build
 SRC_DIRS := ./src
