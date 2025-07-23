@@ -69,7 +69,7 @@ If you encounter any issues or want to contribute, feel free to open an issue or
 ## 📝 Related Papers
 
 Please consider citing our paper. Thank you!
-
+<!--
 ```bash
 @inproceedings{SpeedCore,
 author = {Zhao, Chen and Yu, Ting and Zheng, Zhigao and Zhu, Yuanyuan and Jin, Song and Du, Bo and Tao, Dacheng},
@@ -84,3 +84,4 @@ location = {Gotland, Sweden},
 series = {ICPP '24}
 }
 ```
+-->
